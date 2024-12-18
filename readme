@@ -1,0 +1,20 @@
+#A simple Ruby script that fetches a random joke from the Official Joke API and displays it in the terminal.
+
+#Requirements
+#Ruby 2.x or higher
+
+#Setup
+
+#Install Ruby: If you haven't installed Ruby, you can download it from the official website: https://www.ruby-lang.org/en/documentation/installation/
+
+#Download the script: You can create a new file and paste the following code into it:
+
+#ruby
+#Copy code
+
+#Run the script using the command:
+
+#The script will fetch a random joke and display it in the terminal.
+
+#Example Output:
+#Why don't skeletons fight each other? - They don't have the guts.
